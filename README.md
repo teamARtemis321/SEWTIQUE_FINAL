@@ -1,4 +1,5 @@
 # SEWTIQUE - CSIT321 FINAL PROJECT - TEAM ARTEMIS
+University Of Wollongong in Dubai
 
 Welcome to Sewtique's Github Repository!
 
@@ -7,7 +8,7 @@ Sewtique is an Augmented Reality based Sewing Guide Application made using Unity
 Here's our official website: https://sewtique.carrd.co/
 Our Social Media: https://www.instagram.com/sewtique.byartemis/
 
-# USING OUR APPLICATION 
+_USING OUR APPLICATION_
 
 Please feel free to try out our application by downloading the APK File on this repository called *sewtiquefinal.apk* onto an android phone (android 8 and higher) 
 
