@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "firebase_url": "https://integrationauthentication-default-rtdb.firebaseio.com/",
+    "project_number": "726891703471",
+    "project_id": "integrationauthentication",
+    "storage_bucket": "integrationauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726891703471:android:6add95e139a1d146f7385a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Integration_Authentication_02Nov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhf8TCIpNp36umuUIhHPiteI8LbIg1Qzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
