@@ -9,7 +9,7 @@ Our Social Media: https://www.instagram.com/sewtique.byartemis/
 
 # USING OUR APPLICATION
 
-Please feel free to try out our application by downloading the APK File on this repository called *sewtiquefinal.apk* onto an android phone (android 8 and higher) 
+Please feel free to try out our application by downloading the APK File called *sewtiquefinal.apk* from this google drive link: https://drive.google.com/file/d/1D7_tupVf6S3Z0cFGfquFIORMbtStdGJC/view?usp=sharing onto an android phone (android 8 and higher) 
 
 Thank you! 
 
